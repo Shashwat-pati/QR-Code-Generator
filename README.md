@@ -12,7 +12,8 @@ else u can get the colour and contrast by setting urself manually in the code.
 
 Modules used:- 🔥
 
-
 --> Pillow
+
 --> Open-CV
+
 --> QrCode
