@@ -14,7 +14,5 @@ Modules used:- 🔥
 
 
 --> Pillow
-
 --> Open-CV
-
 --> QrCode
